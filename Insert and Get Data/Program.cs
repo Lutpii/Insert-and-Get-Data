@@ -135,7 +135,6 @@ namespace Insert_and_Get_Data
         }
         public void search(SqlConnection con)
         {
-
         }
         public void delete(SqlConnection con)
         {
